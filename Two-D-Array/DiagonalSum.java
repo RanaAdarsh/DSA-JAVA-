@@ -1,5 +1,5 @@
 public class DiagonalSum {
-    public static void DiagonalSum(int matrix[][]){
+    public static void diagonalSum(int matrix[][]){
         if(matrix.length!=matrix[0].length){
             System.out.println("Not a NxN matrix!");
             return;
@@ -20,6 +20,6 @@ public class DiagonalSum {
                      {5, 6, 7, 8},
                      {9, 10,11,12},
                      {13,14,15,16}};
-    DiagonalSum(matrix);
+    diagonalSum(matrix);
    } 
 }
