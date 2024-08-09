@@ -1,5 +1,3 @@
-package Array;
-
 public class Searching {
     public static int LinearSearch(int arr[],int key){
         for(int i =0;i<arr.length;i++){

@@ -1,5 +1,3 @@
-package Array;
-
 public class SubArray {
 
     // PRINTING SUBARRAYS

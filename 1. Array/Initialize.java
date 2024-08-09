@@ -1,5 +1,3 @@
-package Array;
-
 public class Initialize {
     //LARGEST ELEMENT IN THE ARRAY.
     public static int Largest(int arr[]){
