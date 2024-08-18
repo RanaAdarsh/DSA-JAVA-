@@ -1,5 +1,3 @@
-import java.nio.channels.Pipe.SourceChannel;
-
 public class CountingSort {
     public static void sort(int arr[]){
         int n = arr.length;
